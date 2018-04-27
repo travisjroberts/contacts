@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ab425a8-b2cf-452c-a951-c4eadfbf99c0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
+      <change beforePath="$PROJECT_DIR$/src/CreateContact.js" afterPath="$PROJECT_DIR$/src/CreateContact.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="630">
@@ -28,12 +28,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreateContact.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CreateContact.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CreateContact.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-              <folding />
+            <state relative-caret-position="465">
+              <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+              <folding>
+                <element signature="e#1#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,10 +109,10 @@
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/logo.svg" />
-        <option value="$PROJECT_DIR$/src/CreateContact.js" />
         <option value="$PROJECT_DIR$/src/ListContacts.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/CreateContact.js" />
       </list>
     </option>
   </component>
@@ -213,12 +215,12 @@
       <updated>1524621253992</updated>
       <workItem from="1524621266970" duration="2232000" />
       <workItem from="1524665939180" duration="1647000" />
-      <workItem from="1524779967632" duration="1914000" />
+      <workItem from="1524779967632" duration="2173000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5793000" />
+    <option name="totallyTimeSpent" value="6052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="216" y="58" width="1419" height="1213" extended-state="0" />
@@ -389,14 +391,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CreateContact.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ListContacts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1041">
@@ -423,6 +417,16 @@
           <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreateContact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="e#1#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
