@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ab425a8-b2cf-452c-a951-c4eadfbf99c0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change beforePath="$PROJECT_DIR$/src/CreateContact.js" afterPath="$PROJECT_DIR$/src/CreateContact.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,10 +33,10 @@
       <file leaf-file-name="CreateContact.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CreateContact.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+            <state relative-caret-position="585">
+              <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
               <folding>
-                <element signature="e#1#41#0" expanded="true" />
+                <element signature="e#0#40#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -215,12 +217,12 @@
       <updated>1524621253992</updated>
       <workItem from="1524621266970" duration="2232000" />
       <workItem from="1524665939180" duration="1647000" />
-      <workItem from="1524779967632" duration="2173000" />
+      <workItem from="1524779967632" duration="2284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6052000" />
+    <option name="totallyTimeSpent" value="6163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="216" y="58" width="1419" height="1213" extended-state="0" />
@@ -423,10 +425,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CreateContact.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        <state relative-caret-position="585">
+          <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
           <folding>
-            <element signature="e#1#41#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
